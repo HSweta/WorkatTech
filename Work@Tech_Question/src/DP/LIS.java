@@ -78,7 +78,8 @@ public static void main(String[] args) {
 		  else
 			  high=mid-1;
 	  }
+	  return low;
   }
   
-  return low;
+ 
 }
